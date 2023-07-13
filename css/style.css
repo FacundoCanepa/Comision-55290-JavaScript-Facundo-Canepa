@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+header {
+    background-color: aquamarine;
+    padding-top: 15px;
+    height: 944px;
+}
+h1,h2,h3,p{
+    text-align: center;
+}
+h1{
+    font-size: 75px;
+}
+h2{
+    font-size: 45px;
+    padding-top: 10px;
+}
+h3{
+    font-size: 45px;
+    padding-top: 20px;
+}
+p{
+    font-size: 30px;
+    padding-top: 20px;
+}
